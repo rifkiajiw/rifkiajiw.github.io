@@ -18,3 +18,8 @@ footer {
 section {
   padding-top: 4rem;
 }
+img.card-img-top {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
