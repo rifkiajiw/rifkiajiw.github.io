@@ -1,5 +1,5 @@
 .jumbotron {
-  padding-top: 2rem;
+  padding-top: 6rem;
   background-color: #ff838f;
 }
 .display-4 {
@@ -11,6 +11,10 @@
 #kontak {
   background-color: #b90113;
 }
-.bibi-instagram {
-  color: $indigo;
+
+footer {
+  background-color: #b90113;
+}
+section {
+  padding-top: 4rem;
 }
