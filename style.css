@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #ff838f;
+}
+.display-4 {
+  font-size: 3rem;
+}
+#pendidikan {
+  background-color: #ff838f;
+}
+#kontak {
+  background-color: #b90113;
+}
+.bibi-instagram {
+  color: $indigo;
+}
